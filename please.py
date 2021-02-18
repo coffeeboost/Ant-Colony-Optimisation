@@ -209,7 +209,7 @@ if __name__ == '__main__':
         for x in agents:
             path = x.construct_path()
             pLvl = g.get_pLevel()
-            #save path 
+            #save path
             with open(filename, 'a+', newline='') as write_obj:
                 csv_writer = csv.writer(write_obj)
                 csv_writer.writerow([count,path[0],path[1],path[2],path[3],path[4],
@@ -222,7 +222,7 @@ if __name__ == '__main__':
     print("program end")
 
 
-''' conversion between pLvl-index and node pair
+''' conversion between pLvl-index and node pair (row # = index #)
 a - b
 a - c
 a - d
