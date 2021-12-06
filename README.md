@@ -6,14 +6,14 @@ Research project from Sep 2020 - Feb 2021
 `everything.png` - graph of results  
 `myBib.bib` - bibliography database for Bibtex and Latex  
 `notEverything.png` - graph of results  
-`please.py` - main file with algorithm implementation in Python  
+`main.py` - main file with algorithm implementation in Python  
 `test2.pdf` - paper of my project  
 `test2.tex` - Latex file which produced the paper  
 `weWinThese.csv` - Data outputted from main file  
 
 # How to Run
 1. Clone the repo  
-2. Run `python please.py` to get data  
+2. Run `python main.py` to get data  
 3. Open Jupyter Notebook and click Run All  
 4. See plots made in Jupyter Notebook  
 
