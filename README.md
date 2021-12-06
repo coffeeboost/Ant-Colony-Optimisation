@@ -3,13 +3,9 @@ Research project from Sep 2020 - Feb 2021
 
 # File description
 `analyze.ipynb` - jupyter notebook analysis with Python, Pandas, Matplotlib  
-`everything.png` - graph of results  
-`myBib.bib` - bibliography database for Bibtex and Latex  
-`notEverything.png` - graph of results  
 `main.py` - main file with algorithm implementation in Python  
-`test2.pdf` - paper of my project  
-`test2.tex` - Latex file which produced the paper  
-`weWinThese.csv` - Data outputted from main file  
+`paper.pdf` - paper of my project  
+`observed_data.csv` - Data outputted from main file  
 
 # How to Run
 1. Clone the repo  
